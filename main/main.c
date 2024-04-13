@@ -9,7 +9,7 @@
 
 
 // Other modules
-#include "LED/led.h"
+#include "led.h"
 
 // Standard libraries
 #include <stdio.h>
